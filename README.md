@@ -1,7 +1,6 @@
 Overview
 ========
 This is a starter java project
-```
 
 Opening in Eclipse
 ==================
