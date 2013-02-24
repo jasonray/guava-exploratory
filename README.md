@@ -34,7 +34,12 @@ Compile
 =======
 To compile:
 ```
-gradle jar
+gradle fatjar
 ```
 
+Run
+===
+```
+java -cp build/libs/jar-starterkit.jar jayray.net.hello.HelloWorld
+```
 
