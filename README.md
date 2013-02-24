@@ -30,5 +30,11 @@ If you change dependencies, update the classpath:
 gradle cleanEclipseClasspath eclipseClasspath
 ```
 
+Compile
+=======
+To compile:
+```
+gradle jar
+```
 
 
