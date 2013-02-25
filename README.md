@@ -1,6 +1,6 @@
 Overview
 ========
-This is a starter java project
+Working through guava http://mvnrepository.com/artifact/com.google.guava
 
 Note on gradle
 ==============
