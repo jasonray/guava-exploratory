@@ -30,16 +30,34 @@ If you change dependencies, update the classpath:
 gradle cleanEclipseClasspath eclipseClasspath
 ```
 
+How to Run, Method 1
+====================
+
 Compile
-=======
+-------
 To compile:
 ```
 gradle fatjar
 ```
 
 Run
-===
+---
 ```
 java -cp build/libs/jar-starterkit.jar jayray.net.hello.HelloWorld
 ```
 
+How to Run, Method 2
+====================
+
+Compile
+-------
+To compile:
+```
+gradle installApp
+```
+
+Run
+---
+```
+build/install/jar-starterkit/bin/jar-starterkit
+```
