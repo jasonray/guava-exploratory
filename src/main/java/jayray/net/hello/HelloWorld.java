@@ -10,7 +10,7 @@ public class HelloWorld {
 		greeter.sayhello();
 	}
 
-	private String sayhello() {
+	public String sayhello() {
 		System.out.println("hello stdout");
 		logger.debug("sample debug message");
 		logger.info("sample info message");
