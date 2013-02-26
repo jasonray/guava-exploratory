@@ -5,7 +5,7 @@ import org.junit.Test;
 import com.google.common.base.Optional;
 
 @SuppressWarnings("unused")
-public class OptionalPerformance {
+public class OptionalPerformanceTest {
 	private final int numberOfIterations = 100000000;
 
 	@Test

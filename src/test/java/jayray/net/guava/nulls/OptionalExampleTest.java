@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import com.google.common.base.Optional;
 
-public class OptionalExample {
+public class OptionalExampleTest {
 
 	@Test
 	public void useOptionalWithProvidedPrimativeValue() {
